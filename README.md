@@ -1,2 +1,2 @@
-# Desafio-Reposit-rio
+# Repositório - Desafio Git/GitHub Dio
 Desafio Dio
